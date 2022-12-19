@@ -1,4 +1,4 @@
-# Hey, I'm Mustapha Iconic
+# Hey, I'm NIZEYIMANA Jean de Dieu (Mustapha)
 ![cover-thompson](https://user-images.githubusercontent.com/86121130/207322636-f8a0c294-d16b-47cf-97ae-f0dc7db7caee.png)
 
 
