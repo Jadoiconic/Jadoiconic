@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🎓 I have completed Front-end curriculum at , a remote software development.<br><br>🔭 Currently, I’m looking to collaborate on and contribute to open-source projects 🥅.<br><br>👨‍💻 I’m currently buildind some side project and learning some high level programming skills🌍️.<br><br>👯 I’m looking to collaborate and contributing to open source projects😄.<br><br>🤔 I’m looking for to Reach out to people who share similar interests or who share the same enthusiasm 🌱.<br><br>💬 Ask me about Frontend-Web design, Full-stack applications, Mobile App✨️..<br><br>📫 How to reach me: iconicmustapha@gmail.com.<br><br>⚡ Fun fact: I love listening to music 🎧 , playing Guitar🎵
+Experienced ICT programmer with a passion for developing innovative and user-friendly software solutions. Proven ability to work independently and as part of a team, and to meet deadlines under pressure. Strong problem-solving and analytical skills.
 
 
 ## 🌐 Socials:
