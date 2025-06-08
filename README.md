@@ -3,7 +3,18 @@
 
 
 # 💫 About Me:
-Experienced ICT programmer with a passion for developing innovative and user-friendly software solutions. Proven ability to work independently and as part of a team, and to meet deadlines under pressure. Strong problem-solving and analytical skills.
+🚀 Hi! I'm Jado, a frontend developer with experience building modern web apps using Next.js, React, and Tailwind CSS. I create clean, responsive designs and love building features that solve real problems.
+
+🧪 I also write robust tests using Playwright and Jest to ensure high performance and quality.
+
+What I can do for you:
+Build dashboards, admin panels, CRMs
+Convert Figma designs to responsive UI
+Fix bugs, speed up loading times
+Automate testing with Playwright
+
+✅ 100% Job Success (when you have one)
+Let’s build something awesome. I’m ready to start today.
 
 
 ## 🌐 Socials:
